@@ -20,4 +20,4 @@ O projeto Screenmatch foi criado para permitir a visualização e organização 
 - **Maven**
 - **IntelliJ IDEA**
 
-   git clone https://github.com/seu-usuario/screenmatch.git
+
